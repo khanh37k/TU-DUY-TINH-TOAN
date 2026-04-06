@@ -1,0 +1,4 @@
+chieudai = int(input("nhập chiều dài"))
+chieurong = int(input("nhập chiều rộng"))
+print("chu vi hình chữ nhật là", (chieudai + chieurong)*2)
+print("diện tích hình chữ nhật là", chieudai*chieurong)

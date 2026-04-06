@@ -1,0 +1,4 @@
+ban_kinh = int(input())
+dien_tich = ban_kinh**2*3.14
+chu_vi = ban_kinh*2*3.14
+print(chu_vi, dien_tich)

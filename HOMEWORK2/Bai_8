@@ -1,0 +1,4 @@
+a, b ,c, d, m, n = map(float, input().split())
+y = (n-m*c/a)/((b*c)/a+d)
+x = (m - b*y)/a
+print(x, y)
